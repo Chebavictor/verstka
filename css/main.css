@@ -354,18 +354,17 @@ section h2 {
 			background-color: #2a2a2a;
 		}
 		.mc_item_wrap.active>ul{
-			padding: 0;
 			margin: 0;
+			padding: 0;
 			list-style-type: none;
+			position: absolute;
+			width: 100%;
 		}
 		body .mc_wrap .mc_item_wrap.>ul {
-			width: 100%;
 			font-size: 20px;
 			background-color: #353535;
-			margin-top: 25px;
-			position: absolute;
+			margin-top: 26px;
 		}
-
 			.mc_item_wrap.active>ul>li {
 				float: left;
 				font-family: 'BebasRegular';

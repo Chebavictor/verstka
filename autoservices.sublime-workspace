@@ -67,7 +67,7 @@
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 6556,
+				"buffer_size": 6617,
 				"line_ending": "Windows"
 			}
 		},
@@ -75,7 +75,7 @@
 			"file": "css/main.css",
 			"settings":
 			{
-				"buffer_size": 7128,
+				"buffer_size": 7127,
 				"line_ending": "Windows"
 			}
 		},
@@ -95,11 +95,19 @@
 		"selected_items":
 		[
 			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
 				"Package Control: ",
-				"Package Control: Remove Package"
+				"Package Control: Install Package"
 			]
 		],
-		"width": 400.0
+		"width": 424.0
 	},
 	"console":
 	{
@@ -120,7 +128,6 @@
 	},
 	"expanded_folders":
 	[
-		"/D/Учеба (практика)/Верстка/Autoservices",
 		"/D/Учеба (практика)/Верстка/Autoservices/css",
 		"/D/Учеба (практика)/Верстка/Autoservices/img"
 	],
@@ -182,15 +189,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6556,
+						"buffer_size": 6617,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4008,
-								4008
+								4609,
+								4609
 							]
 						],
 						"settings":
@@ -204,10 +211,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1095.0,
+						"translation.y": 1545.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -222,15 +229,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7128,
+						"buffer_size": 7127,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6482,
-								6482
+								6360,
+								6360
 							]
 						],
 						"settings":
@@ -243,7 +250,7 @@
 						"translation.y": 5155.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -333,6 +340,10 @@
 	{
 		"height": 0.0
 	},
+	"output.git":
+	{
+		"height": 70.0
+	},
 	"project": "autoservices.sublime-project",
 	"replace":
 	{
@@ -363,7 +374,7 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
